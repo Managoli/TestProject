@@ -1,0 +1,6 @@
+pageObjects/LoginPage.class
+pageObjects/HomePage.class
+pageObjects/HomePageElements.class
+pageObjects/LoginPageElements.class
+Project_K/com/Package/App.class
+resources/BaseClass.class

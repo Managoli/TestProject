@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Project_K.com.Package.LoginPageTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.623 s <<< FAILURE! - in Project_K.com.Package.LoginPageTest
+setUp(Project_K.com.Package.LoginPageTest)  Time elapsed: 0.381 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable must exist: /Users/vedant/Desktop/Project_SKY/drivers/chromedriver.exe
+	at Project_K.com.Package.LoginPageTest.setUp(LoginPageTest.java:25)
+
